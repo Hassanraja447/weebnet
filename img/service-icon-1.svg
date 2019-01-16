@@ -1,0 +1,14 @@
+<svg id="Group_76" data-name="Group 76" xmlns="http://www.w3.org/2000/svg" width="65.91" height="46.137" viewBox="0 0 65.91 46.137">
+  <g id="Group_5" data-name="Group 5" transform="translate(0)">
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="31.49" height="14.647" rx="7.323" fill="#31c2e0" opacity="0.1"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="22.702" height="14.647" rx="7.323" transform="translate(43.208 31.49)" fill="#31c2e0" opacity="0.1"/>
+  </g>
+  <g id="_002-footwear" data-name="002-footwear" transform="translate(14.647 4.394)">
+    <path id="Path_1" data-name="Path 1" d="M50.255,177.019H42.319c-1.14,0-2.244.352-3.091-.41L17.592,157.333l-2.521,3.581L36.25,180l4.2,1.812h9.806v-4.8Z" transform="translate(-14.001 -145.99)" fill="#e1defd"/>
+    <g id="Group_9" data-name="Group 9" transform="translate(0 0)">
+      <path id="Path_2" data-name="Path 2" d="M36.047,36.891H27.131A8.092,8.092,0,0,1,21.77,34.7L.592,15.574a1.066,1.066,0,0,1-.139-1.439L10.877.423A1.065,1.065,0,0,1,12.37.216c.018.013.036.028.053.042l6.646,5.724h5.4a1.066,1.066,0,0,1,1.066.869L28.879,24.5l3.4.885a6.571,6.571,0,0,1,4.743,6.448c-.037,2.6,0,3.416.027,3.651a1.066,1.066,0,0,1-1,1.434ZM2.745,14.647,23.2,33.118a6.048,6.048,0,0,0,3.933,1.641H34.88V31.775a4.483,4.483,0,0,0-3.171-4.338L27.7,26.392a1.066,1.066,0,0,1-.778-.831L23.582,8.113H18.674a1.065,1.065,0,0,1-.693-.256L11.89,2.619Z" transform="translate(-0.236 0)" fill="#31c2e0"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="5.862" height="1.066" transform="translate(19.2 12.908)" fill="#31c2e0"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="7.461" height="1.066" transform="translate(19.2 18.237)" fill="#31c2e0"/>
+    </g>
+  </g>
+</svg>

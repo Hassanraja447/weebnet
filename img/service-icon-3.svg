@@ -1,0 +1,15 @@
+<svg id="Group_78" data-name="Group 78" xmlns="http://www.w3.org/2000/svg" width="65.91" height="46.137" viewBox="0 0 65.91 46.137">
+  <g id="Group_3" data-name="Group 3">
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="31.49" height="14.647" rx="7.323" fill="#31c2e0" opacity="0.1"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="22.702" height="14.647" rx="7.323" transform="translate(43.208 31.49)" fill="#31c2e0" opacity="0.1"/>
+  </g>
+  <g id="_003-calendar" data-name="003-calendar" transform="translate(14.647 5.126)">
+    <path id="Path_3" data-name="Path 3" d="M27.962,52.706h29.5a1.609,1.609,0,0,1,1.609,1.609v5.9H26.353v-5.9A1.609,1.609,0,0,1,27.962,52.706Z" transform="translate(-24.744 -48.952)" fill="#e1defd"/>
+    <g id="Group_10" data-name="Group 10" transform="translate(0)">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="18.235" height="1.073" transform="translate(8.581 16.626)" fill="#31c2e0"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="18.235" height="1.073" transform="translate(8.581 21.453)" fill="#31c2e0"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="12.872" height="1.073" transform="translate(8.581 26.281)" fill="#31c2e0"/>
+      <path id="Path_4" data-name="Path 4" d="M36.482,2.682H33.8V0H31.655V2.682H26.291V0H24.146V2.682H18.782V0H16.637V2.682H11.274V0H9.128V2.682H6.983A3.218,3.218,0,0,0,3.765,5.9V33.253a3.218,3.218,0,0,0,3.218,3.218h29.5A3.218,3.218,0,0,0,39.7,33.253h0V5.9A3.218,3.218,0,0,0,36.482,2.682Zm1.073,30.571a1.072,1.072,0,0,1-1.073,1.073H6.983A1.072,1.072,0,0,1,5.91,33.253V5.9A1.072,1.072,0,0,1,6.983,4.827h29.5A1.072,1.072,0,0,1,37.554,5.9Z" transform="translate(-3.765)" fill="#31c2e0"/>
+    </g>
+  </g>
+</svg>

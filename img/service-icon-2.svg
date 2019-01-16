@@ -1,0 +1,10 @@
+<svg id="Group_77" data-name="Group 77" xmlns="http://www.w3.org/2000/svg" width="65.91" height="46.137" viewBox="0 0 65.91 46.137">
+  <g id="Group_6" data-name="Group 6">
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="31.49" height="14.647" rx="7.323" fill="#31c2e0" opacity="0.1"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="22.702" height="14.647" rx="7.323" transform="translate(43.208 31.49)" fill="#31c2e0" opacity="0.1"/>
+  </g>
+  <g id="_019-award" data-name="019-award" transform="matrix(0.999, 0.035, -0.035, 0.999, 18.855, 4.394)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="7.276" cy="7.276" r="7.276" transform="translate(7.178 16.109)" fill="#e1defd"/>
+    <path id="Path_5" data-name="Path 5" d="M28.743.53A1.116,1.116,0,0,0,27.795,0h-9.7a1.116,1.116,0,0,0-1,.614L14.454,5.881,11.815.614a1.116,1.116,0,0,0-1-.614h-9.7a1.116,1.116,0,0,0-1,1.618L5.95,13.246a13.241,13.241,0,1,0,17.007,0L28.794,1.618A1.115,1.115,0,0,0,28.743.53ZM2.926,2.232h7.2l3.08,6.138-.988,1.964A13.142,13.142,0,0,0,7.8,11.946ZM25.468,23.385A11.009,11.009,0,1,1,14.454,12.376,11.009,11.009,0,0,1,25.468,23.385ZM21.116,11.946a13.15,13.15,0,0,0-6.305-1.8l3.973-7.918h7.2Z" transform="translate(0 0)" fill="#31c2e0"/>
+  </g>
+</svg>
