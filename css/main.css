@@ -7089,7 +7089,8 @@ body {
   font-weight: 400; }
 
 #HBM {
-  background-image: url(..img/hbm-bg.png);
+  background-image: url("../img/hbm-bg.png");
+  background-position: top;
   background-size: cover; }
 
 ul {
@@ -7103,6 +7104,9 @@ ul {
   background-position: 55% 40%;
   padding: 3rem;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.16); }
+
+.map {
+  background-image: url("../img/mapMC.png"); }
 
 input::placeholder {
   color: #FFFFFF;
