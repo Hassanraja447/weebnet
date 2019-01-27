@@ -7021,6 +7021,11 @@ body {
   font-size: 2.4rem;
   font-weight: 600; }
 
+.text {
+  font-size: 1.8rem;
+  font-weight: 400;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
+
 .wrapper {
   max-width: 1600px;
   margin: 0 auto; }
@@ -7082,6 +7087,10 @@ body {
 .services-card-subtitle {
   font-size: 1.1rem;
   font-weight: 400; }
+
+#HBM {
+  background-image: url(..img/hbm-bg.png);
+  background-size: cover; }
 
 ul {
   padding: 0;
