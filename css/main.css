@@ -7040,7 +7040,10 @@ body {
   padding: 8.5rem 0; }
 
 .padding-bottom-lg {
-  padding-bottom: 8rem; }
+  padding-bottom: 4rem; }
+  @media (min-width: 992px) {
+    .padding-bottom-lg {
+      padding-bottom: 8rem; } }
 
 .header-heading {
   position: absolute;
@@ -7110,7 +7113,17 @@ ul {
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.16); }
 
 .map {
-  background-image: url("../img/mapMC.png"); }
+  background-image: url("../img/mapMC.png");
+  background-position: top;
+  background-size: cover;
+  height: 30rem; }
+  @media (min-width: 992px) {
+    .map {
+      height: auto; } }
+
+@media (min-width: 992px) {
+  .height {
+    height: 38rem; } }
 
 input::placeholder {
   color: #FFFFFF;
