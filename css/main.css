@@ -7125,9 +7125,31 @@ ul {
   .height {
     height: 38rem; } }
 
-input::placeholder {
+.form-control::placeholder {
   color: #FFFFFF;
   font-size: 1.6em; }
 
-.card:hover {
-  animation: 3s linear 1s slidein; }
+.top {
+  margin-bottom: 1rem; }
+  @media (min-width: 992px) {
+    .top {
+      margin-bottom: 4.1rem; } }
+  @media (min-width: 1200px) {
+    .top {
+      margin-bottom: 2.4rem; } }
+
+.input-box {
+  width: 26rem;
+  height: 4rem; }
+
+.button-box {
+  width: 6rem;
+  height: 4rem;
+  font-size: 1rem; }
+
+.footer-logo {
+  width: 26rem;
+  height: 6rem; }
+
+#copy {
+  background-color: #fff; }
